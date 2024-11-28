@@ -80,7 +80,7 @@ int main() {
 			break;
 		case 10:
 			//system("C:\\WINDOWS\\System32\\shutdown /s /t 5");
-			printf_s("до свидания");
+			//printf_s("до свидания");
 			break;
 		}
 	}
